@@ -30,6 +30,9 @@ Proyek ini membandingkan dua metode klasifikasi, yaitu K-Nearest Neighbors (KNN)
    - Model dievaluasi berdasarkan accuracy, precision, recall, dan f1-score untuk data training dan testing.
    - Perbandingan model dilakukan untuk memilih model terbaik antara KNN dan Naive Bayes.
   
+# KESIMPULAN 
+Dari hasil perbandingan, model KNN dengan k = 7 terbukti menjadi model terbaik dalam memprediksi kualitas udara di Jakarta dengan akurasi 97%, precision 96%, recall 96%, dan f1-score 96%. Model Naive Bayes juga memberikan hasil yang baik, namun sedikit lebih rendah dengan akurasi 96%, precision 93%, recall 94%, dan f1-score 93%. Berdasarkan hasil tersebut, KNN lebih direkomendasikan untuk dataset ini.
+  
 # TIM 
 - Sherryl Kurniawan
 - Angelica
